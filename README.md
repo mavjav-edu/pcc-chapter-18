@@ -246,4 +246,4 @@ TRY IT YOURSELF \#4
 
 &nbsp; | &nbsp; | &nbsp; | &nbsp;
 ----|----|----|----
-[&#10094; Prev](../pcc-chapter-17)| &nbsp; | &nbsp; | &nbsp;[Next &#10095;](../pcc-chapter-19)
+[&#10094; Prev](../../../pcc-chapter-17)| &nbsp; | &nbsp; | &nbsp;[Next &#10095;](../../../pcc-chapter-19)
