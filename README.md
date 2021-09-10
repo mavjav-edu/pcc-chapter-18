@@ -73,8 +73,8 @@ Django template documentation at
 back to it when you&rsquo;re working on your own projects.
 
 <span id="ch18exe8"></span>**18-8. Pizzeria Pages:** Add a page to the
-*Pizzeria* project from [Exercise 18-6](../../../pcc_2e/tree/master/chapter_18/README.md#ch18exe6) ([page
-416](../../../pcc_2e/tree/master/chapter_18/README.md#page_416)) that shows the names of available pizzas. Then
+*Pizzeria* project from [Exercise 18-6](#ch18exe6) ([page
+416](#page_416)) that shows the names of available pizzas. Then
 link each pizza name to a page displaying the pizza&rsquo;s toppings. Make
 sure you use template inheritance to build your pages efficiently.
 
