@@ -63,7 +63,7 @@ for this project.
 
 <span id="ch18exe6"></span>**18-6. Pizzeria Home Page:** Add a home page
 to the *Pizzeria* project you started in [Exercise
-18-4](../../../pcc_2e/tree/master/chapter_18/README.md#ch18exe4) ([page 412](../../../pcc_2e/tree/master/chapter_18/README.md#page_412)).
+18-4](#ch18exe4) ([page 412](#page_412)).
 
 ## TRY IT YOURSELF Ⓓ
 
